@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My previous ID is starsea333 in github.
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanXDev424&layout=compact&theme=tokyonight)
+
 
 <!---
 ShanXDev424/ShanXDev424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
