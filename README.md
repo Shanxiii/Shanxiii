@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My previous ID is starsea333 in github.
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanXDev424&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanXDev424&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ShanXDev424&theme=dracula)
 
 
 <!---
