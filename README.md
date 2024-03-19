@@ -6,6 +6,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=ShanXDev424&theme=minimal" />
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ShanXDev424&theme=minimal" />
+</div>
 
 <!---
 ShanXDev424/ShanXDev424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
