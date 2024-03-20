@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shanxi
 - 👀 I’m interested in machine learning and robot.
 - ⚡ Fun fact: My previous ID is starsea333 in github.
+- ![Visitor Count](https://profile-counter.glitch.me/ShanXDev424/count.svg)
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanXDev424&theme=dracula" /> 
 </div>
