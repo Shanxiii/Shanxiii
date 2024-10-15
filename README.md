@@ -4,9 +4,9 @@
 
 # I’m Shanxi <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🌱 I’m currently learning **computer vision**
-- 👯 Currently working in **Xi'an, China**
-- 🤔 I love **reading, photography**
+- 🌱 I’m currently learning **computer vision**.
+- 👯 Currently working in **Xi'an, China**.
+- 🤔 I love **reading, photography**.
 
 
 <!---
